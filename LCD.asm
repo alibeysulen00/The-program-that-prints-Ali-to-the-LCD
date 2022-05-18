@@ -134,4 +134,3 @@ END
 	
 	
 	
-	; adc de?eri %50 nin alt?ndaysa herhangi bir siplaye 1 %50 75 aras?ndaysa 2 75 100 aras? f yazan
